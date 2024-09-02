@@ -1,6 +1,7 @@
-# Nama  : Dela Farahita Zain
-# NIM   : 2241720058
-# Kelas : D-IV TI 3B
+# Nama        : Dela Farahita Zain
+# NIM         : 2241720058
+# Kelas       : D-IV TI 3B
+# Mata Kuliah : Pemrograman Mobile
 
 1. Modifikasilah kode pada baris 3 di VS Code atau Editor Code favorit Anda berikut ini agar mendapatkan keluaran (output) sesuai yang diminta! \
 ![alt text](image.png)

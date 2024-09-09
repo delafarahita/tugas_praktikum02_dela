@@ -43,3 +43,6 @@ Semua pengembangan menggunakan framework Flutter sangat bergantung pada pemahama
 - Parameter: Tanda kurung kosong berarti fungsi ini tidak menerima parameter.
 - Kurung Kurawal: Menandai awal dan akhir kode fungsi main.
 - Function versus method: Function berdiri sendiri di luar class, seperti fungsi main. Sedangkan Method terikat pada class dan memiliki referensi implisit ke instance class menggunakan keyword this.
+
+4. Buatlah slide yang berisi penjelasan dan contoh eksekusi kode tentang perbedaan Null Safety dan Late variabel ! (Khusus soal ini kelompok berupa link google slide) \
+Lampiran link ppt: https://docs.google.com/presentation/d/1TWT8u15t8a8fDfunn-J5za45DmKolcUXmRFgdP_d_gg/edit?usp=sharing
